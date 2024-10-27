@@ -1,6 +1,6 @@
 # SF2942-calculator-programs-for-TI-84
 
-This repository contains TI-84 calculator programs for the course **SF2942 HT24 Portfolio Theory and Risk Management** at **KTH Royal Institute of Technology**. The programs are (no longer) highly aligned to the exam questions and could save a lot of time for you in your exam. All programs are my original work. 
+This repository contains TI-84 calculator programs for the course **SF2942 HT24 Portfolio Theory and Risk Management** at **KTH Royal Institute of Technology**. The programs are highly aligned (no longer after Henrik took over the course at HT2024) to the exam questions and could save a lot of time for you in your exam. All programs are my original work. 
 
 Use the programs on your own risk, the author takes no resonsibility.
 
